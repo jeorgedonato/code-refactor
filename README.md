@@ -1,3 +1,3 @@
-# Code Refactor
+### Code Refactor
  
-# Submitted by : Jeorge Janil Donato
+**Submitted by : Jeorge Janil Donato**
